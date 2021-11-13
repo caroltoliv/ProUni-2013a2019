@@ -17,7 +17,7 @@
    * Tipo de bolsa mais predominante
    * Modalidade de ensino mais predominante
    * Região com maior oferta de bolsas
-   * UF que com maior oferta de bolsas
+   * UF com maior oferta de bolsas
    * Turno com maior oferta de bolsas
    * Top 5 dos cursos com maior oferta de bolsas
 
